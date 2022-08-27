@@ -775,3 +775,154 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.27-12.34.33:098][975]AssetCheck: New page: Asset Save: multiple assets
 [2022.08.27-12.34.33:098][975]LogContentValidation: Display: Validating BaseOnTraceInteractiveSlideDoor_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BaseOnTraceInteractiveSlideDoor_C_UAID_6045CB643FA5DC3001_1399196571
 [2022.08.27-12.34.33:099][975]LogContentValidation: Display: Validating BaseOnTraceInteractiveRotativeDoor_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BaseOnTraceInteractiveRotativeDoor_C_UAID_6045CB643FA5DD3001_1766391748
+[2022.08.27-12.35.57:599][682]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.08.27-12.35.57:599][682]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.08.27-12.38.12:286][502]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.08.27-12.38.12:286][502]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.08.27-12.38.15:403][834]LogContentBrowser: Attempting asset rename: DOORS_LADDERS -> DOORS_LADDERS
+[2022.08.27-12.38.48:272][537]LogContentBrowser: Attempting asset rename: BaseOnTraceInteractiveDoor -> BaseOnTraceInteractiveDoor
+[2022.08.27-12.39.20:639][732]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.08.27-12.39.20:639][732]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.08.27-12.39.40:742][650]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.27-12.39.40:751][650]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.27-12.39.40:751][650]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.27-12.39.40:751][650]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.27-12.39.40:751][650]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.27-12.39.40:751][650]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.27-12.39.40:751][650]LogWorldPartition: Display: GetPartitionedActors took 77 us
+[2022.08.27-12.39.40:752][650]LogWorldPartition: Display: GenerateStreaming took 535 us
+[2022.08.27-12.39.40:752][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.27-12.39.40:753][650]PIE: New page: PIE session: FirstPersonMap (28 авг. 2022 г., 08:39:40)
+[2022.08.27-12.39.40:758][650]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.08.27-12.39.40:758][650]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.08.27-12.39.40:758][650]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.27-12.39.40:767][650]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.27-12.39.40:768][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009084s)
+[2022.08.27-12.39.40:768][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.009175s)
+[2022.08.27-12.39.40:768][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.27-12.39.40:768][650]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.08.27-12.39.40:769][650]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.27-12.39.40:769][650]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.27-12.39.40:771][650]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.08.27-12.39.40:771][650]LogPlayLevel: PIE: World Init took: (0.003841s)
+[2022.08.27-12.39.40:801][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.08.27-12.39.40:802][650]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.08.27-12.39.40:802][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.27-12.39.40:802][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.27-12.39.40:802][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.27-12.39.40:802][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.27-12.39.40:802][650]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.27-12.39.40:802][650]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.27-12.39.40:802][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.27-12.39.40:802][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.27-12.39.40:803][650]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.27-12.39.40:803][650]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.27-12.39.40:803][650]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.27-12.39.40:806][650]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.27-12.39.40:833][650]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.08.27-12.39.40:834][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.27-12.39.40:834][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.27-12.39.40:834][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.27-12.39.40:835][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.08.27-12.39.40:835][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.08.27-12.39.40:838][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.08.27-12.39.40:838][650]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.08.27-12.39.40:838][650]LogInit: FAudioDevice initialized.
+[2022.08.27-12.39.40:838][650]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2022.08.27-12.39.40:850][650]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.27-12.39.40:855][650]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.08.27-22.39.40
+[2022.08.27-12.39.40:855][650]LogWorld: Bringing up level for play took: 0.004859
+[2022.08.27-12.39.40:857][650]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.08.27-12.39.40:889][650]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=870.000 Y=940.000 Z=98.337
+[2022.08.27-12.39.40:889][650]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.27-12.39.40:890][650]PIE: Server logged in
+[2022.08.27-12.39.40:891][650]PIE: Play in editor total start time 0,141 seconds.
+[2022.08.27-13.03.18:720][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.27-13.03.18:720][647]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.27-13.03.18:721][647]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.27-13.03.18:722][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.27-13.03.18:735][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.27-13.03.18:743][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.27-13.03.18:770][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.27-13.03.18:775][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.27-13.03.18:777][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.27-13.03.18:791][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.08.27-13.03.18:824][648]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.08.27-13.03.33:327][201]LogContentBrowser: Attempting asset rename: BaseOnTraceInteractiveDoor -> BaseDoor
+[2022.08.27-13.03.34:245][201]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseDoor.BaseDoor_C' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.PackageMetaData'
+[2022.08.27-13.03.34:245][201]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseDoor.BaseDoor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.PackageMetaData'
+[2022.08.27-13.03.34:245][201]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseDoor.BaseDoor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.PackageMetaData'
+[2022.08.27-13.03.34:245][201]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseDoor.BaseDoor:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.PackageMetaData'
+[2022.08.27-13.03.34:245][201]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseDoor.BaseDoor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.PackageMetaData'
+[2022.08.27-13.03.34:245][201]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseDoor.BaseDoor:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.PackageMetaData'
+[2022.08.27-13.03.34:245][201]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseDoor.BaseDoor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.PackageMetaData'
+[2022.08.27-13.03.34:245][201]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseDoor.BaseDoor:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.PackageMetaData'
+[2022.08.27-13.03.34:245][201]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseDoor.SKEL_BaseDoor_C:ReceiveBeginPlay' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.PackageMetaData'
+[2022.08.27-13.03.34:245][201]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseDoor.SKEL_BaseDoor_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.PackageMetaData'
+[2022.08.27-13.03.34:245][201]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseDoor.SKEL_BaseDoor_C:ReceiveTick' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.PackageMetaData'
+[2022.08.27-13.03.34:245][201]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseDoor.SKEL_BaseDoor_C:OnTraceInteract' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.PackageMetaData'
+[2022.08.27-13.03.34:245][201]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseDoor.SKEL_BaseDoor_C:UserConstructionScript' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.PackageMetaData'
+[2022.08.27-13.03.34:245][201]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseDoor.SKEL_BaseDoor_C' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.PackageMetaData'
+[2022.08.27-13.03.34:329][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DOORS_LADDERS/BaseDoor" FILE="H:/Demo/DoorsAndLadders/Content/DOORS_LADDERS/BaseDoor.uasset" SILENT=true
+[2022.08.27-13.03.34:339][201]LogSavePackage: Moving output files for package: /Game/DOORS_LADDERS/BaseDoor
+[2022.08.27-13.03.34:339][201]LogSavePackage: Moving 'H:/Demo/DoorsAndLadders/Saved/BaseDoorD481293C483E2FF013F3B5A2EA8319F4.tmp' to 'H:/Demo/DoorsAndLadders/Content/DOORS_LADDERS/BaseDoor.uasset'
+[2022.08.27-13.03.34:341][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor" FILE="H:/Demo/DoorsAndLadders/Content/DOORS_LADDERS/BaseOnTraceInteractiveDoor.uasset" SILENT=true
+[2022.08.27-13.03.34:341][201]LogSavePackage: Moving output files for package: /Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor
+[2022.08.27-13.03.34:342][201]LogSavePackage: Moving 'H:/Demo/DoorsAndLadders/Saved/BaseOnTraceInteractiveDoor5E64DF8C4ED62692BFF6909AD2310BFD.tmp' to 'H:/Demo/DoorsAndLadders/Content/DOORS_LADDERS/BaseOnTraceInteractiveDoor.uasset'
+[2022.08.27-13.03.34:888][201]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.27-13.03.34:888][201]LogContentValidation: Display: Validating Blueprint /Game/DOORS_LADDERS/BaseDoor.BaseDoor
+[2022.08.27-13.03.34:888][201]LogContentValidation: Display: Validating ObjectRedirector /Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.BaseOnTraceInteractiveDoor
+[2022.08.27-13.03.34:888][201]LogContentValidation: Display: Validating ObjectRedirector /Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.Default__BaseOnTraceInteractiveDoor_C
+[2022.08.27-13.03.34:888][201]LogContentValidation: Display: Validating ObjectRedirector /Game/DOORS_LADDERS/BaseOnTraceInteractiveDoor.BaseOnTraceInteractiveDoor_C
+[2022.08.27-13.03.46:493][498]LogContentBrowser: Attempting asset rename: BaseOnTraceInteractiveRotativeDoor -> BaseRotativeDoor
+[2022.08.27-13.03.47:306][498]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseRotativeDoor.BaseRotativeDoor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.PackageMetaData'
+[2022.08.27-13.03.47:306][498]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseRotativeDoor.BaseRotativeDoor_C' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.PackageMetaData'
+[2022.08.27-13.03.47:306][498]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseRotativeDoor.BaseRotativeDoor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.PackageMetaData'
+[2022.08.27-13.03.47:306][498]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseRotativeDoor.BaseRotativeDoor:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.PackageMetaData'
+[2022.08.27-13.03.47:306][498]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseRotativeDoor.BaseRotativeDoor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.PackageMetaData'
+[2022.08.27-13.03.47:306][498]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseRotativeDoor.BaseRotativeDoor:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.PackageMetaData'
+[2022.08.27-13.03.47:306][498]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseRotativeDoor.BaseRotativeDoor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.PackageMetaData'
+[2022.08.27-13.03.47:306][498]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseRotativeDoor.BaseRotativeDoor:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.PackageMetaData'
+[2022.08.27-13.03.47:306][498]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseRotativeDoor.SKEL_BaseRotativeDoor_C:ReceiveBeginPlay' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.PackageMetaData'
+[2022.08.27-13.03.47:306][498]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseRotativeDoor.SKEL_BaseRotativeDoor_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.PackageMetaData'
+[2022.08.27-13.03.47:306][498]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseRotativeDoor.SKEL_BaseRotativeDoor_C:ReceiveTick' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.PackageMetaData'
+[2022.08.27-13.03.47:306][498]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseRotativeDoor.SKEL_BaseRotativeDoor_C:OnTraceInteract' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.PackageMetaData'
+[2022.08.27-13.03.47:306][498]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseRotativeDoor.SKEL_BaseRotativeDoor_C:UserConstructionScript' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.PackageMetaData'
+[2022.08.27-13.03.47:306][498]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseRotativeDoor.SKEL_BaseRotativeDoor_C' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.PackageMetaData'
+[2022.08.27-13.03.47:382][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DOORS_LADDERS/BaseRotativeDoor" FILE="H:/Demo/DoorsAndLadders/Content/DOORS_LADDERS/BaseRotativeDoor.uasset" SILENT=true
+[2022.08.27-13.03.47:394][498]LogSavePackage: Moving output files for package: /Game/DOORS_LADDERS/BaseRotativeDoor
+[2022.08.27-13.03.47:394][498]LogSavePackage: Moving 'H:/Demo/DoorsAndLadders/Saved/BaseRotativeDoor66342DAE41ED748BAF852780A9FF8132.tmp' to 'H:/Demo/DoorsAndLadders/Content/DOORS_LADDERS/BaseRotativeDoor.uasset'
+[2022.08.27-13.03.47:396][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor" FILE="H:/Demo/DoorsAndLadders/Content/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.uasset" SILENT=true
+[2022.08.27-13.03.47:397][498]LogSavePackage: Moving output files for package: /Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor
+[2022.08.27-13.03.47:397][498]LogSavePackage: Moving 'H:/Demo/DoorsAndLadders/Saved/BaseOnTraceInteractiveRotativeDoC0BFA3234C798EA90CB70CA17DCB56A2.tmp' to 'H:/Demo/DoorsAndLadders/Content/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.uasset'
+[2022.08.27-13.03.47:895][498]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.27-13.03.47:895][498]LogContentValidation: Display: Validating Blueprint /Game/DOORS_LADDERS/BaseRotativeDoor.BaseRotativeDoor
+[2022.08.27-13.03.47:895][498]LogContentValidation: Display: Validating ObjectRedirector /Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.BaseOnTraceInteractiveRotativeDoor
+[2022.08.27-13.03.47:895][498]LogContentValidation: Display: Validating ObjectRedirector /Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.Default__BaseOnTraceInteractiveRotativeDoor_C
+[2022.08.27-13.03.47:895][498]LogContentValidation: Display: Validating ObjectRedirector /Game/DOORS_LADDERS/BaseOnTraceInteractiveRotativeDoor.BaseOnTraceInteractiveRotativeDoor_C
+[2022.08.27-13.03.57:270][567]LogContentBrowser: Attempting asset rename: BaseOnTraceInteractiveSlideDoor -> BaseSlideDoor
+[2022.08.27-13.03.58:052][567]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseSlideDoor.BaseSlideDoor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.PackageMetaData'
+[2022.08.27-13.03.58:052][567]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseSlideDoor.BaseSlideDoor_C' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.PackageMetaData'
+[2022.08.27-13.03.58:052][567]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseSlideDoor.BaseSlideDoor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.PackageMetaData'
+[2022.08.27-13.03.58:052][567]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseSlideDoor.BaseSlideDoor:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.PackageMetaData'
+[2022.08.27-13.03.58:052][567]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseSlideDoor.BaseSlideDoor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.PackageMetaData'
+[2022.08.27-13.03.58:052][567]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseSlideDoor.BaseSlideDoor:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.PackageMetaData'
+[2022.08.27-13.03.58:052][567]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseSlideDoor.BaseSlideDoor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.PackageMetaData'
+[2022.08.27-13.03.58:052][567]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseSlideDoor.BaseSlideDoor:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.PackageMetaData'
+[2022.08.27-13.03.58:052][567]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseSlideDoor.SKEL_BaseSlideDoor_C:ReceiveBeginPlay' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.PackageMetaData'
+[2022.08.27-13.03.58:052][567]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseSlideDoor.SKEL_BaseSlideDoor_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.PackageMetaData'
+[2022.08.27-13.03.58:052][567]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseSlideDoor.SKEL_BaseSlideDoor_C:ReceiveTick' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.PackageMetaData'
+[2022.08.27-13.03.58:052][567]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseSlideDoor.SKEL_BaseSlideDoor_C:OnTraceInteract' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.PackageMetaData'
+[2022.08.27-13.03.58:052][567]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseSlideDoor.SKEL_BaseSlideDoor_C:UserConstructionScript' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.PackageMetaData'
+[2022.08.27-13.03.58:052][567]LogMetaData: Removing '/Game/DOORS_LADDERS/BaseSlideDoor.SKEL_BaseSlideDoor_C' ref from Metadata '/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.PackageMetaData'
+[2022.08.27-13.03.58:124][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DOORS_LADDERS/BaseSlideDoor" FILE="H:/Demo/DoorsAndLadders/Content/DOORS_LADDERS/BaseSlideDoor.uasset" SILENT=true
+[2022.08.27-13.03.58:134][567]LogSavePackage: Moving output files for package: /Game/DOORS_LADDERS/BaseSlideDoor
+[2022.08.27-13.03.58:134][567]LogSavePackage: Moving 'H:/Demo/DoorsAndLadders/Saved/BaseSlideDoor4F7F3D094E5EDF26166C9580093B7427.tmp' to 'H:/Demo/DoorsAndLadders/Content/DOORS_LADDERS/BaseSlideDoor.uasset'
+[2022.08.27-13.03.58:135][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor" FILE="H:/Demo/DoorsAndLadders/Content/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.uasset" SILENT=true
+[2022.08.27-13.03.58:136][567]LogSavePackage: Moving output files for package: /Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor
+[2022.08.27-13.03.58:137][567]LogSavePackage: Moving 'H:/Demo/DoorsAndLadders/Saved/BaseOnTraceInteractiveSlideDoor95BC826444E22A28C32A4BA3DCD1C83C.tmp' to 'H:/Demo/DoorsAndLadders/Content/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.uasset'
+[2022.08.27-13.03.58:612][567]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.27-13.03.58:612][567]LogContentValidation: Display: Validating Blueprint /Game/DOORS_LADDERS/BaseSlideDoor.BaseSlideDoor
+[2022.08.27-13.03.58:612][567]LogContentValidation: Display: Validating ObjectRedirector /Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.BaseOnTraceInteractiveSlideDoor
+[2022.08.27-13.03.58:612][567]LogContentValidation: Display: Validating ObjectRedirector /Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.Default__BaseOnTraceInteractiveSlideDoor_C
+[2022.08.27-13.03.58:612][567]LogContentValidation: Display: Validating ObjectRedirector /Game/DOORS_LADDERS/BaseOnTraceInteractiveSlideDoor.BaseOnTraceInteractiveSlideDoor_C
